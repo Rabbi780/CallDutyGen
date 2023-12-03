@@ -40,7 +40,7 @@
 		<link href="css/animate.css" rel="stylesheet" />
 		<link href="css/magnific-popup.css" rel="stylesheet" />
 		<link href="css/style.css" rel="stylesheet" />
-	</head>
+	<head/>
 	<body>		
 		<div class="main-wrapper">		
 			
